@@ -1,0 +1,51 @@
+# 🗓️ Weekly Developer Diary - Pankaj Kumar
+
+## 📅 Week: April 22 - April 28, 2025
+
+---
+
+### 🧠 What I Learned
+
+- 🐍 **Python**: Practiced list comprehensions and lambda functions.
+- 📊 **Power BI**: Built a sales dashboard using slicers and drill-downs.
+- 🧮 **DSA**: Solved 5 LeetCode problems (2 easy, 2 medium, 1 hard).
+- ☁️ **Cloud**: Explored IBM Cloud Functions and Cloud Object Storage.
+- 📚 **Concept**: Understood the difference between supervised vs unsupervised learning.
+
+---
+
+### 💻 Projects I Worked On
+
+| Project | Update |
+|--------|--------|
+| `data-science-projects` | Added EDA on Spotify dataset |
+| `POWEER-BI-PROJECTS-` | Designed and published a sales insights report |
+| `PANKAJ955956DS` | Updated README and file structure |
+
+---
+
+### 📈 GitHub Contributions This Week
+
+![Your GitHub Contribution Graph](https://ghchart.rshah.org/PANKAJ955956) <!-- Optional: Only if hosted -->
+
+---
+
+### 📝 Notes / Takeaways
+
+- Always visualize missing data before cleaning.
+- Learned how to deploy a Flask app using Replit.
+- Practiced using `.groupby()` in Pandas for summarizing data.
+
+---
+
+### 🎯 Goals for Next Week
+
+- [ ] Solve 7 new DSA problems
+- [ ] Start learning Streamlit
+- [ ] Publish blog on "Top 5 Python Tips for Data Analysts"
+- [ ] Refactor my Data Science portfolio repo
+
+---
+
+> 🚀 Keep learning. Keep building. Stay consistent.
+
