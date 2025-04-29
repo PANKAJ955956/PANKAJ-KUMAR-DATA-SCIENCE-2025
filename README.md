@@ -54,7 +54,7 @@ To secure a **Data Science or Analytics role** where I can apply my problem-solv
 
 ## 📫 Connect with Me
 
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [Pankaj955956@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/)
 - 📊 Portfolio Website: Coming Soon...
 
